@@ -1,0 +1,53 @@
+.p1{
+border-radius:10px;
+border:#D6A2E8 2px;
+}
+.p1{
+margin-left:530;
+margin-right:auto;
+width=50%;
+}
+body{
+background-color:#D6A2E8;
+}
+h1{
+color:white;
+margin-left:570;
+}
+
+.hello{
+height:100px;
+display:flex;
+justify-content:center;
+}
+a{
+height:80px;
+width:80px;
+text-align:center;
+background-color:#D6A2E8;
+border-radius:40px;
+margin:5px;
+line-height:40px;
+box-shadow:1px 2px 2px 1px #B33771;
+}
+a .fa{
+line-height:80px;
+}
+.fa-facebook{
+color:#1B9CFC
+}
+.fa-instagram{
+color:#B33771;
+}
+
+a .fa{
+transition: all o.3s linear;
+}
+a:hover .fa{
+transform: scale(1.4);
+
+
+.fa:hover{
+opacity:0.7;
+}
+
